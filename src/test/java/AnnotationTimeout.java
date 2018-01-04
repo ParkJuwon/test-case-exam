@@ -27,7 +27,7 @@ public class AnnotationTimeout {
 
     @Test(timeout = 10000)
     public void calculatedFirst() throws Exception {
-        Thread.sleep(20000);
+//        Thread.sleep(20000);
         System.out.println("Calculate First");
         assertTrue(true);
     }
