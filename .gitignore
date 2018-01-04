@@ -1,8 +1,10 @@
 .gradle/
 .idea/
+.out/
 build/
 gradle/
 gradlew
 gradlew.bat
+test-case-exam.iml
 
 

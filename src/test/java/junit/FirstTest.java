@@ -1,3 +1,5 @@
+package junit;
+
 import junit.framework.TestCase;
 
 public class FirstTest extends TestCase {
